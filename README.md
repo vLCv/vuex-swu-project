@@ -1,9 +1,10 @@
-# SWU People Profile Project - coded by Liu Chang
+# SWU People Profile Project
 
 > A Sample People list Project implementation with Vuex
+> I made this vuex project using the statement tool to learn and try the VUE, I am happy to share the code and learn each other!
 
 > [API](https://swapi.co)
-
+> [Author]Liu Chang
 
 ### Getting Started
 
@@ -22,6 +23,3 @@ npm run dev
 # build
 npm run build
 ```
-
-
-
